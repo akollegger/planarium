@@ -1,0 +1,20 @@
+siteTitle="Planarium"
+baseColor = "#525252"
+linkPrefix = "/planarium"
+docPages = [
+  "/docs/",
+  "/docs/getting-started/",
+  "/docs/how-to-run/",
+  "/docs/some-react-code/",
+  "/docs/the-next-step/",
+  "/docs/conclusion/",
+]
+demoPages = [
+  "/demos/",
+  "/demos/d3-line-chart/",
+  "/demos/getting-started/",
+  "/demos/how-to-run/",
+  "/demos/some-react-code/",
+  "/demos/the-next-step/",
+  "/demos/conclusion/",
+]
