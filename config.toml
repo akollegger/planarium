@@ -11,6 +11,7 @@ docPages = [
 ]
 demoPages = [
   "/demos/",
+  "/demos/react-friends-d3/",
   "/demos/d3-line-chart/",
   "/demos/getting-started/",
   "/demos/how-to-run/",
